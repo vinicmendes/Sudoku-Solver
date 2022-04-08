@@ -10,5 +10,5 @@
         <maven.compiler.target>11</maven.compiler.target>
         <exec.mainClass>poo.src.Src</exec.mainClass>
     </properties>
-    <name>refactor</name>
+    <name>solver</name>
 </project>
